@@ -1,0 +1,13 @@
+Script started on 2016年03月04日 (週五) 14時36分31秒
+]0;F74041153@2015cpp: ~[01;32mF74041153@2015cpp[00m:[01;34m~[00m$ whoami;pwd
+F74041153
+/home/F74041153
+]0;F74041153@2015cpp: ~[01;32mF74041153@2015cpp[00m:[01;34m~[00m$ config [K[K[K[K[K[K[Kgit config -l
+user.email=leafmouse00@gmail.com
+user.name=f74041153
+]0;F74041153@2015cpp: ~[01;32mF74041153@2015cpp[00m:[01;34m~[00m$ git clone https://github.com/f74041153/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74041153@2015cpp: ~[01;32mF74041153@2015cpp[00m:[01;34m~[00m$ exit
+
+Script done on 2016年03月04日 (週五) 14時37分02秒
